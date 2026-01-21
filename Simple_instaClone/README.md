@@ -51,7 +51,13 @@
 1. React.js & Hooks
 2. REST API Integration & Async Programming
 2. Component-based architecture & Reusable UI
-3. Responsive Design & Media Handling
-4. Frontend-backend interaction & state synchronization
+3. Responsive Design & Media Handling  
+5. Frontend-backend interaction & state synchronization
+<img width="970" height="1017" alt="Screenshot 2026-01-21 203005" src="https://github.com/user-attachments/assets/407ca6f8-ba48-4637-b6d6-c5a5d1a545b4" /><img width="1878" height="1018" alt="Screenshot 2026-01-21 202911" <img width="1878" height="1018" alt="Screenshot 2026-01-21 202911" src="https://github.com/user-attachments/assets/c8e1e6f5-8d8b-4d30-93d0-2990786d1233" />
+src="https://github.com/user-attachments/assets/ad4eb431-43f9-4c03-a010-335c5ffb966a" />
+
+
+ # GUI SCREEN  SHORT
+   
 
 # Design UI
