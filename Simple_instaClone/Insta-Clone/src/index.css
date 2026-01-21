@@ -1,0 +1,157 @@
+.w-20 {
+  width: 20%;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.logo-text {
+  width: 140px;
+}
+
+.sidebar {
+  width: 220px;
+}
+
+.sidebar-wrapper {
+  width: 220px;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.sidebar-item i {
+  font-size: 20px;
+}
+
+.sidebar-item:hover {
+  background-color: #f2f2f2;
+}
+
+.sidebar-item.active {
+  font-weight: 600;
+  background-color: #efefef;
+}
+
+.sidebar-bottom {
+  position: fixed;
+  bottom: 20px;
+}
+
+.story {
+  height: 80px;
+  padding: 15px;
+}
+
+.gradient-border {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff,#ff6600,#ffcc00);
+}
+
+.story-dp {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.feed-wrapper {
+  max-width: 600px;
+  margin: auto;
+}
+
+.suggestion-wrapper {
+  width: 300px;
+  padding-left: 20px;
+}
+
+.feed-container {
+  margin-top: 10px;
+}
+
+.post-header .dp {
+  width: 40px;
+  height: 40px;
+}
+
+.post-header .username {
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.media {
+  width: 300px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.profile-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.profile {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.suggestions h5 {
+  font-size: 16px;
+}
+
+.suggestions .dp {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-top: 0 !important;
+}
+
+.dp {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  margin-bottom: 6px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.btn-outline-secondary {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+@media (max-width: 992px) {
+  .sidebar-wrapper,
+  .suggestion-wrapper {
+    display: none;
+  }
+  .feed-wrapper {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+.blue{
+  color: rgb(87, 122, 237);
+}

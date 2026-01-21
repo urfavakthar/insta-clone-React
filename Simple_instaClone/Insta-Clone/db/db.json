@@ -1,0 +1,431 @@
+{
+  "posts": [
+    {
+      "id": "101",
+      "user": {
+        "id": 1,
+        "name": "urfav.akthr",
+        "profilePicture": "./src/assets/userPic.jpg"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/cofe_post.jpg"
+      ],
+      "caption": "Slow mornings. Strong coffee ☕. Nothing beats the aroma of freshly brewed coffee while enjoying a calm Sunday. Take a moment to breathe and savor life. #relax #morningvibes",
+      "hashtags": [
+        "#coffee | ",
+        " #morning | ",
+        " #lifestyle | ",
+        " #relax| ",
+        " #morningvibes"
+      ],
+      "location": "Colombo",
+      "likes": 300,
+      "savedBy": [
+        3,
+        5
+      ],
+      "createdAt": "2026-01-18T08:30:00",
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "text": "Love this morning vibe! ☕",
+          "createdAt": "2026-01-18T08:35:00"
+        },
+        {
+          "id": 6,
+          "userId": 3,
+          "text": "Perfect way to start the day 🔥",
+          "createdAt": "2026-01-18T08:40:00"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "user": {
+        "id": 1,
+        "name": "mr_alice",
+        "profilePicture": "./src/assets/profile_1.avif"
+      },
+      "type": "carousel",
+      "media": [
+        "./src/assets/elle_1.jpg",
+        "./src/assets/elle_2.jpg"
+      ],
+      "caption": "Escaping the noise 🌿. Found serenity in the hills of Ella. Nature has a way of grounding your soul and filling your mind with peace. #travel #nature #peaceful",
+      "hashtags": [
+        "#travel | ",
+        " #nature | ",
+        "#peaceful | ",
+        "#hiking | ",
+        "#wanderlust"
+      ],
+      "location": "Ella, Sri Lanka",
+      "likes": 110,
+      "savedBy": [
+        3
+      ],
+      "createdAt": "2026-01-18T09:45:00",
+      "comments": [
+        {
+          "id": 2,
+          "userId": 3,
+          "text": "Ella is breathtaking! 🌿",
+          "createdAt": "2026-01-18T09:50:00"
+        },
+        {
+          "id": 7,
+          "userId": 4,
+          "text": "Adding this to my travel list ✈️",
+          "createdAt": "2026-01-18T09:55:00"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "user": {
+        "id": 1,
+        "name": "sparrow_01",
+        "profilePicture": "./src/assets/profile_2.jpg"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/street.avif"
+      ],
+      "caption": "Good food, good mood 🍲. Exploring street food vibes in Kandy is a delight — every bite tells a story of local flavor and culture. #foodie #streetfood #explore",
+      "hashtags": [
+        "#food | ",
+        "#streetfood | ",
+        " #explore | ",
+        "#localcuisine | ",
+        "#delicious"
+      ],
+      "location": "Kandy",
+      "likes": 200,
+      "savedBy": [],
+      "createdAt": "2026-01-18T11:00:00",
+      "comments": [
+        {
+          "id": 3,
+          "userId": 4,
+          "text": "Looks delicious 🤤",
+          "createdAt": "2026-01-18T11:10:00"
+        },
+        {
+          "id": 8,
+          "userId": 2,
+          "text": "Street food is the best 😍",
+          "createdAt": "2026-01-18T11:15:00"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "user": {
+        "id": 1,
+        "name": "jzt_sara",
+        "profilePicture": "./src/assets/profile_3.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/Gym.mp4"
+      ],
+      "caption": "Discipline over motivation 💪. Watch how a consistent workout routine transforms your mind and body. Every rep counts! Keep pushing forward and never give up. #fitness #reels #workout",
+      "hashtags": [
+        "#fitness | ",
+        "#reels | ",
+        "#workout | ",
+        "#health | ",
+        "#motivation"
+      ],
+      "views": 5200,
+      "likes": 120,
+      "savedBy": [
+        2
+      ],
+      "createdAt": "2026-01-18T12:15:00",
+      "comments": [
+        {
+          "id": 4,
+          "userId": 3,
+          "text": "Goals! 💪",
+          "createdAt": "2026-01-18T12:20:00"
+        },
+        {
+          "id": 9,
+          "userId": 5,
+          "text": "This motivates me 🔥",
+          "createdAt": "2026-01-18T12:25:00"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "user": {
+        "id": 1,
+        "name": "dark_shadow",
+        "profilePicture": "./src/assets/profile_5.jpg"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/sunSet.jpg"
+      ],
+      "caption": "Golden hour never lies 🌅. Witnessing the sun paint the sky with shades of gold and pink — pure magic! Feeling grateful for moments like this. #sunset #photography #nature",
+      "hashtags": [
+        "#sunset | ",
+        "#photography | ",
+        "#nature | ",
+        "#goldenhour | ",
+        "#scenery"
+      ],
+      "location": "Galle",
+      "likes": [
+        3,
+        4,
+        6
+      ],
+      "savedBy": [
+        2
+      ],
+      "createdAt": "2026-01-18T17:40:00",
+      "comments": [
+        {
+          "id": 5,
+          "userId": 2,
+          "text": "That sunset is gorgeous 🌅",
+          "createdAt": "2026-01-18T17:45:00"
+        },
+        {
+          "id": 10,
+          "userId": 3,
+          "text": "Amazing shot 📸",
+          "createdAt": "2026-01-18T17:50:00"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "user": {
+        "id": 1,
+        "name": "remo_althaf",
+        "profilePicture": "./src/assets/profile_6.jpg"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/Colombo.jpg"
+      ],
+      "caption": "City lights at night ✨ . The skyline of Colombo looks mesmerizing under the night sky. Every light tells a story, every street has its charm. #city #night #photography",
+      "hashtags": [
+        "#city | ",
+        "#night | ",
+        "#photography | ",
+        "#urban | ",
+        "#lights"
+      ],
+      "location": "Colombo",
+      "likes": [
+        2,
+        3
+      ],
+      "savedBy": [],
+      "createdAt": "2026-01-18T20:10:00",
+      "comments": [
+        {
+          "id": 11,
+          "userId": 4,
+          "text": "Night vibes are awesome 🌃",
+          "createdAt": "2026-01-18T20:15:00"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "user": {
+        "id": 1,
+        "name": "tony_blinders",
+        "profilePicture": "./src/assets/profile_7.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/Morning.mp4"
+      ],
+      "caption": "Morning walk routine 🚶‍♀️. Starting the day with a brisk walk refreshes your mind and body. Embrace the fresh air, the calm streets, and the quiet energy of the morning. #health #routine #reels",
+      "hashtags": [
+        "#health | ",
+        "#routine | ",
+        "#reels | ",
+        "#morningwalk | ",
+        "#wellness"
+      ],
+      "views": 3100,
+      "likes": [
+        1,
+        2,
+        3
+      ],
+      "savedBy": [
+        3
+      ],
+      "createdAt": "2026-01-19T06:30:00",
+      "comments": [
+        {
+          "id": 12,
+          "userId": 2,
+          "text": "Nice routine 👌",
+          "createdAt": "2026-01-19T06:35:00"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "urfav.akthr",
+    "profilePicture": "./src/assets/userPic.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "2",
+      "name": "mr_alice",
+      "profilePicture": "./src/assets/profile_1.avif"
+    },
+    {
+      "id": "3",
+      "name": "sparrow_01",
+      "profilePicture": "./src/assets/profile_2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "jzt_sara",
+      "profilePicture": "./src/assets/profile_3.jpg"
+    },
+    {
+      "id": "5",
+      "name": "dark_shadow",
+      "profilePicture": "./src/assets/profile_5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "tony_blinders",
+      "profilePicture": "./src/assets/profile_7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "itz_jasmin",
+      "profilePicture": "./src/assets/profile_3.jpg"
+    },
+    {
+      "id": "9",
+      "name": "remo_althaf",
+      "profilePicture": "./src/assets/profile_6.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "101",
+      "user": {
+        "id": 1,
+        "name": "urfav.akthr",
+        "profilePicture": "./src/assets/userPic.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/story_3.mp4"
+      ]
+    },
+    {
+      "id": "102",
+      "user": {
+        "id": 2,
+        "name": "mr_alice",
+        "profilePicture": "./src/assets/profile_1.avif"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/elle_1.jpg"
+      ]
+    },
+    {
+      "id": "103",
+      "user": {
+        "id": 3,
+        "name": "sparrow_01",
+        "profilePicture": "/src/assets/profile_2.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/story_4.mp4"
+      ]
+    },
+    {
+      "id": "104",
+      "user": {
+        "id": 4,
+        "name": "jzt_sara",
+        "profilePicture": "/src/assets/profile_3.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/Gym.mp4"
+      ]
+    },
+    {
+      "id": "105",
+      "user": {
+        "id": 5,
+        "name": "dark_shadow",
+        "profilePicture": "./src/assets/profile_5.jpg"
+      },
+      "type": "image",
+      "media": [
+        "./src/assets/story_1.jpg"
+      ]
+    },
+    {
+      "id": "106",
+      "user": {
+        "id": 6,
+        "name": "remo_althaf",
+        "profilePicture": "./src/assets/profile_6.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/story_2.mp4"
+      ]
+    },
+    {
+      "id": "107",
+      "user": {
+        "id": 7,
+        "name": "tony_blinders",
+        "profilePicture": "./src/assets/profile_7.jpg"
+      },
+      "type": "reel",
+      "media": [
+        "./src/assets/Morning.mp4"
+      ]
+    }
+  ],
+  "followers": [
+    {
+      "id": "7",
+      "name": "tony_blinders",
+      "profilePicture": "./src/assets/profile_7.jpg"
+    },
+    {
+      "id": "2",
+      "name": "mr_alice",
+      "profilePicture": "./src/assets/profile_1.avif"
+    },
+    {
+      "id": "3",
+      "name": "sparrow_01",
+      "profilePicture": "./src/assets/profile_2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "jzt_sara",
+      "profilePicture": "./src/assets/profile_3.jpg"
+    }
+  ]
+}
